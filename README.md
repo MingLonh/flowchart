@@ -1,1 +1,16 @@
 # flowchart
+
+## Flowchart: Making Coffee
+
+```mermaid
+graph TD
+    A[Start] --> B[Boil Water]
+    B --> C[Prepare Coffee Grounds]
+    C --> D[Place Filter in Coffee Maker]
+    D --> E[Add Coffee Grounds to Filter]
+    E --> F[Pour Hot Water Over Grounds]
+    F --> G[Let Coffee Brew]
+    G --> H[Pour Coffee into Cup]
+    H --> I[Add Milk/Sugar (Optional)]
+    I --> J[Enjoy!]
+```
